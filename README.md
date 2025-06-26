@@ -58,9 +58,11 @@ It showcases my ability to **design systems** that are scalable, performant, and
 
 ---
 
-## 🖥️ Screenshots (Optional)
+## 🖥️ Screenshots
 
-_Add a screenshot of your GUI with the JTable, or a GIF showing recipe addition and display._
+![image](https://github.com/user-attachments/assets/e02b3f67-904e-4477-b5b4-a863cd5ad0b1)
+![image](https://github.com/user-attachments/assets/e02b3f67-904e-4477-b5b4-a863cd5ad0b1)
+
 
 ---
 
