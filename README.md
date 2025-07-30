@@ -75,6 +75,10 @@ It showcases my ability to **design systems** that are scalable, performant, and
 
 ---
 
+## Team
+- Arpita Deodikar
+- Jagruti Disle
+
 ## 🏁 How to Run
 
 ```bash
